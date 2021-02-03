@@ -1,0 +1,25 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": "27017",
+        "dbname": "picgram"
+    },
+    "tokenKey": "alwaysKey",
+    "CodeToken": "tryyourpassword",
+    "server": {
+        "port": "3000"
+    },
+    "cors": {
+        "origin": "http://localhost"
+    },
+    "nodeMailer": {
+        "transport": {
+            "service": "gmail",
+            "user": "modernthuravi@gmail.com",
+            "pass": "H4ll0Thuravi@"
+        },
+        "info": {
+            "from": "elangoram1998@gmail.com"
+        }
+    }
+}
